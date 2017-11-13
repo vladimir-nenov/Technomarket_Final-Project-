@@ -1,0 +1,77 @@
+@CHARSET "UTF-8";
+.log-head {
+	margin: 0px;
+	padding: 0px;
+	z-index: -1;
+}
+
+br {
+	display: hidden;
+}
+
+#common-container {
+	padding-right: .5em;
+	display: flex;
+	margin-top: -120px;
+	margin-left: 230px;
+	margin-right: -50px;
+	margin-bottom: 0px;
+	position: relative;
+	float: left;
+	height: 500px;
+	z-index: -1;
+}
+
+.push {
+	margin-top: 400px;
+	height: 70px;
+}
+
+#store-contaner {
+	margin-top: 450px;
+	margin-left: 200px;
+	border: 1px solid #E5E5E5;
+	background-color: #F9F9F9;
+	width: 340px;
+	display: inline;
+	float: right;
+	margin-top: 0px;
+	margin-left: 30px;"
+}
+
+#stored-id {
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+#map {
+	float: left;
+	width: 700px;
+	height: 400px;
+	display: inline;
+	margin-right: 0px;
+}
+
+#map-move {
+	margin-top: 50px;
+	
+}
+
+.indiv-store-li{
+	margin-top: 10px;
+}
+
+.asterisk {
+	color: #E60000;
+}
+
+.store-link-a {
+	text-decoration: none;
+	color: #E60000
+}
+#store-contaner{
+	
+	
+}

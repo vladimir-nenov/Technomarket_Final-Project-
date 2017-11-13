@@ -1,0 +1,68 @@
+@CHARSET "UTF-8";
+
+.log-head {
+	margin: 0px;
+	padding: 0px;
+	z-index: -1;
+}
+
+br {
+	display: hidden;
+}
+
+#field {
+	height: 40px;
+	width: 300px;
+	margin-left: 0.5em;
+}
+
+#btn-common {
+	margin-top: 20px;
+	margin-left: 65px;
+	background-color: #E60000;
+	color: white;
+	border: none;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	z-index: 30;
+}
+
+#center-line {
+	width: 1px;
+	background-color: #E5E5E5;
+	size: 500px;
+	color: #E5E5E5;
+	margin-right: 700px;
+	height: 270px;
+	margin-bottom: 0px;
+}
+
+.push {
+	margin-top: 200px;
+	height: 70px;
+}
+
+#common-container {
+	padding-right: .5em;
+	display: flex;
+	margin-top: -120px;
+	margin-left: 270px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	position: relative;
+	float: left;
+	height: 500px;
+	z-index: -1;
+}
+
+#left-div {
+	margin-right: 150px;
+}
+
+#first-label {
+	display: inline-block;
+	text-align: left;
+}

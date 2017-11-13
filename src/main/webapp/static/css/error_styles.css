@@ -1,0 +1,28 @@
+@CHARSET "UTF-8";
+
+#error-img {
+	align: middle;
+	width: 1500px;
+	height: 1000px;
+}
+
+#container-error {
+	text-align: center;
+	display: block;
+	position: relative;
+	padding-right: .5em;
+	display: flex;
+	margin-left: 10px;
+	margin-top: -120px;
+	margin-right: -50px;
+	margin-bottom: 0px;
+	position: relative;
+	float: left;
+	height: 500px;
+	z-index: -1;
+}
+
+.push {
+	margin-top: 900px;
+	height: 70px;
+}

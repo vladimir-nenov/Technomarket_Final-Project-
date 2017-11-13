@@ -1,0 +1,128 @@
+@CHARSET "UTF-8";
+
+.log-head {
+	margin: 0px;
+	padding: 0px;
+	z-index: -1;
+}
+
+br {
+	display: hidden;
+}
+
+#common-container {
+	padding-right: .5em;
+	display: flex;
+	margin-top: -120px;
+	margin-left: 230px;
+	margin-right: -50px;
+	margin-bottom: 0px;
+	position: relative;
+	float: left;
+	height: 500px;
+	z-index: -1;
+}
+
+#left-div, #right-div {
+	z-index: 1;
+	margin-bottom: 400px;
+}
+
+#left-div {
+	margin-right: 0px;
+}
+
+#right-div {
+	margn-left: 0px;
+}
+
+.push {
+	margin-top: 600px;
+	height: 70px;
+}
+
+.asterisk {
+	color: #E60000;
+}
+
+#center-line {
+	z-index: 1;
+	width: 1px;
+	background-color: #E5E5E5;
+	size: 500px;
+	color: #E5E5E5;
+	margin-right: 100px;
+	height: 650px;
+	margin-bottom: 0px;
+}
+
+#field-1, #field-2, #field-3, #field-4, #field-5, #date-1 {
+	height: 40px;
+	width: 300px;
+	margin-left: 0.5em;
+	margin-top: 20px;
+	margin-right: 0px;
+}
+
+.checkboxes {
+	margin-top: 20px;
+}
+
+#checkbox-1 {
+	margin-left: 0.5em;
+}
+
+#checkbox-2 {
+	margin-left: 183px;
+}
+
+#text {
+	display: inline-block;
+	margin-left: 200px;
+	margin-right: 0px;
+}
+
+#radio-1, #radio-2 {
+	margin-left: 0.5em;
+	margin-top: 30px;
+}
+
+.radio-label {
+	margin-right: 20px;
+}
+
+.field-label {
+	margin-top: 30px;
+	float: left;
+	width: 10em;
+	margin-right: 1em;
+}
+
+#btn-login-a {
+	text-decoration: none;
+	color: #FFFFFF;
+}
+
+#btn-login {
+	margin-top: 20px;
+	background-color: #E60000;
+	border: none;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+}
+
+#button-red {
+	margin-top: 15px;
+	margin-left: 182px;
+	background-color: #E60000;
+	border: none;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: block;
+	font-size: 16px;
+	color: #FFFFFF;
+}

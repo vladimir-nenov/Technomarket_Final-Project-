@@ -1,0 +1,169 @@
+@CHARSET "UTF-8";
+
+#picture-nail {
+	border: 1px solid #ddd;
+	border-radius: 4px;
+	padding: 5px;
+	width: 400px;
+	height: auto;
+}
+
+#picture-nail :hover {
+	box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
+
+br {
+	display: hidden;
+}
+
+.log-head {
+	margin: 0px;
+	padding: 0px;
+	z-index: -1;
+}
+
+br {
+	display: hidden;
+}
+
+#common-container {
+	padding-right: .5em;
+	display: flex;
+	margin-top: -100px;
+	margin-left: 200px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	position: relative;
+	float: left;
+	height: 400px;
+	width: 400px;
+	z-index: -1;
+}
+
+#stores {
+	margin-top: 450px;
+	margin-left: 200px;
+	border: 1px solid #E5E5E5;
+	background-color: #F9F9F9;
+	width: 1100px;
+}
+
+.city-down {
+	display: inline-block;
+	width: 300px;
+	margin-left: 0.5em;
+	margin-right: 0.5em;
+}
+.status-push {
+	display: inline-block;
+	width: 22px;
+	height: 22px;
+	
+}
+.add-store {
+	background:#0C7C60; 
+    border: 0 none;
+    height: 23px;
+	color: #FFFFFF;
+}
+
+.change-div {
+	display: inline-block;
+	width: 200px;
+	margin-left: 0.5em;
+}
+
+.push {
+	margin-top: 50px;
+	height: 70px;
+}
+#admin-buttons {
+	display: flex;
+	position: relative;
+	z-index: 100;
+}
+
+#delete-btn {
+	margin-left: 0.5em;
+}
+#promo-box {
+	height: 56px;
+	width: 56px;
+	float: left;
+	margin-right: 0px;
+	margin-left: -37px;
+}
+
+#description-div {
+	width: 350px;
+}
+
+#product-info {
+	padding: 30px;
+	margin-top: 50px;
+}
+
+.btn-favourites {
+	margin-top: 70px;
+	margin-bottom: 10px;
+	background-color: #E60000;
+	color: #FFFFFF;
+	border: none;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	z-index: 30;
+}
+
+#border-div {
+	width: 400px;
+	border-bottom: 1px solid #E5E5E5;
+	
+}
+
+#buy-table {
+	
+	height: 100px;
+	
+}
+
+#buy-table {
+	margin-top: 0px;
+	padding-left: 50px;
+}
+
+#product-table {
+	margin-top: 100px;
+	border-collapse: collapse;
+	background-color: #F9F9F9;
+	color: #333333;
+}
+#product-table {
+	border: 1px solid #DDDDDD;
+}
+
+td {
+	display: inline-block;
+	
+}
+
+#promo-price-red {
+	color: #E60000;
+}
+
+#warranty {
+	border: 1px solid #333333;
+	background-color: #FFFFFF;
+	display: block;
+	width: 215px;
+}
+
+#warranty-span {
+	padding: 10px;
+}
+
+#note-request {
+	width: 215px;
+}

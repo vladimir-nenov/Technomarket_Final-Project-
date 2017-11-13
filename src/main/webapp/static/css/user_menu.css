@@ -1,0 +1,50 @@
+@CHARSET "UTF-8";
+#menu-head-user {
+	display: inline-block;
+   list-style: none;
+   margin-left: 0;
+   padding-left: 1em;
+   text-indent: -1em;
+   width: 10px;
+   padding-left: 0;
+}
+br {
+   	display: hidden;
+}
+
+.meanu-el {
+	display: inline-block
+	height: 60px;
+	width: 281px;
+}
+
+#glyphicons-parents { 
+    background:url(/img/glyphicons/plyphicons-users.png); 
+    width:10px; 
+    height:10px;
+    display: block;
+    float: left;
+}
+
+#head-li {
+	 border-top: 1px solid #E60000;
+	 border-bottom: 1px solid #DDDDDD; 
+	 background-color: #FFFFFF;
+}
+
+.menu-button-user {
+	border-top: 1px solid #DDDDDD;
+	border-bottom: 1px solid #DDDDDD; 
+	background-color: #F9F9F9;
+}
+
+.menu-button-user .user-menu-link:hover {
+	color: #EA0000;
+	backgound-color: #FFFFFF;
+	border-left: 2px solid #E60000;
+}
+
+.user-menu-link {
+	 text-decoration: none;
+	 color: #000000;
+}

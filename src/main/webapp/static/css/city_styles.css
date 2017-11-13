@@ -1,0 +1,65 @@
+@CHARSET "UTF-8";
+
+#picture-nail-store {
+	border: 1px solid #ddd;
+	border-radius: 4px;
+	padding: 5px;
+	width: 400px;
+	height: auto;
+}
+
+#picture-nail-store :hover {
+	box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
+
+br {
+	display: hidden;
+}
+
+.log-head {
+	margin: 0px;
+	padding: 0px;
+	z-index: -1;
+}
+
+#common-container {
+	padding-right: .5em;
+	display: flex;
+	margin-top: -120px;
+	margin-left: 320px;
+	margin-right: -50px;
+	margin-bottom: 0px;
+	position: relative;
+	float: left;
+	height: 500px;
+	z-index: -1;
+}
+
+.push {
+	margin-top: 300px;
+	height: 70px;
+}
+
+.store-map-btn {
+	margin-top: 15px;
+	margin-left: 0px;
+	background-color: #E60000;
+	border: none;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: block;
+	font-size: 16px;
+	color: #FFFFFF;
+}
+#store-info {
+	width: 400px;
+	height: 310px;
+	border: 1px solid #E5E5E5;
+	background-color: #F9F9F9;
+	margin-right: 40px;
+}
+
+.store-li {
+	margin-top: 20px;
+}
